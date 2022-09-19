@@ -1,2 +1,2 @@
 # Business-generation
-Business-generation website
+Business-generation responsive website 
